@@ -67,7 +67,7 @@ Performed in Power Query within Power BI:
 ## 📺 Credit
 
 - **Dataset Credit**: Alex The Analyst ([YouTube Channel](https://www.youtube.com/@AlexTheAnalyst))
-- **Project Execution**: Transformation, modeling, and dashboard design by *[Shashank Pokala]*.
+- **Project Execution**: Transformation, modeling, and dashboard design by *Shashank Pokala*.
 
 ## 🧠 Tools Used
 
