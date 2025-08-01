@@ -1,9 +1,6 @@
-# Insert the dashboard image into the README just below the title
-
-final_readme_content = """
 # 📊 Data Professional Survey Breakdown – Power BI Dashboard
 
-![Dashboard Preview](Images/Dashboard.png)
+![Dashboard Preview](Images/Dashboard.jpg)
 
 ## 📝 Project Overview
 
